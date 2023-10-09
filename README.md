@@ -1,1 +1,2 @@
-## Java OODS  
+## Java - Objektni razvoj softvera
+
