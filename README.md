@@ -7,4 +7,4 @@ Podaci se smještaju u fajl myimdb.txt gdje svaka linija predstavlja navedene po
 ### Application.java
 
 Pravi kolekciju svih filmova iz fajla imdb.txt.Vrši se sortiranje filmova po godini objave,zatim se pravi mapa gdje je kljuc String ime glumca,a value broj,
-ako je glavni glumac u filmu dobija 1poen,sporedna uloga 0.4.Ta mapa je sortirana  i izstampana.
+ako je glavni glumac u filmu dobija 1poen,sporedna uloga 0.4.Ta mapa je sortirana  i istampana.
